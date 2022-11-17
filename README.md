@@ -19,8 +19,9 @@ This is a solution to the [3-column preview card component challenge on Frontend
 ### Screenshot
 
 <p float="left">
-<img src="https://github.com/aviralsharma07/QR-code-component/blob/323cff2e0237e363a7812a7beb92a6389931fe6f/screenshots/mobileSS.png" width="20%" height="347px">
-<img src="https://github.com/aviralsharma07/QR-code-component/blob/323cff2e0237e363a7812a7beb92a6389931fe6f/screenshots/desktopSS.png" width="79%" height="347px">
+<img src="https://github.com/aviralsharma07/3-Column-Card-Component/blob/0907d08d90f987bb4c658d34db11b75cf9f92a8e/FireShot%20Capture%20008%20-%20Frontend%20Mentor%20-%203-column%20preview%20card%20component_%20-%203col-card-component.netlify.app.png" width="20%" height="347px">
+
+<img src="https://github.com/aviralsharma07/3-Column-Card-Component/blob/0907d08d90f987bb4c658d34db11b75cf9f92a8e/FireShot%20Capture%20005%20-%20Frontend%20Mentor%20-%203-column%20preview%20card%20component_%20-%203col-card-component.netlify.app.png" width="79%" height="347px">
 </p>
 
 ### Links
