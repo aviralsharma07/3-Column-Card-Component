@@ -102,5 +102,12 @@ button:hover,button:focus{
     background-color: hsl(179, 100%, 13%);
 }
 
-footer { font-size: 11px; text-align: center; }
-footer a { color: hsl(228, 45%, 44%); }
+footer{bottom: 2px;}
+
+footer p{
+    text-align: center;
+    font-size: 0.9rem;
+    margin: 3rem;
+    color: hsl(210, 3%, 16%)
+}
+footer a { color: hsl(225, 96%, 69%); }
