@@ -44,7 +44,9 @@ This is a solution to the [3-column preview card component challenge on Frontend
 
 ### Continued development
 
-Moving ahead, I want to create more complex projects by improving grasp on Flexbox, positioning and typography. I'll be exploring Mobile first approach to make my projects highly responsive. I will revise and use Box-Model i.e, Padding and Margin to my advantage in next projects.
+Moving ahead:
+- I will learn to use media queries to make sites responsive in Mobiles.
+- I want to create more complex projects by improving grasp on Flexbox, positioning and typography.
 
 ### Useful resources
 
