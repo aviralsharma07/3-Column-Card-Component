@@ -26,7 +26,7 @@ This is a solution to the [3-column preview card component challenge on Frontend
 
 ### Links
 
-- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/responsive-qr-code-component-using-flexbox-WoDeDvZp7_)
+- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/responsive-3-column-preview-card-using-flexbox-0-YjHGFxc6)
 - Live Site URL: [3 Column Preview Card](https://3col-card-component.netlify.app/)
 
 ## My process
